@@ -1,3 +1,5 @@
+package step001;
+
 import java.util.Scanner;
 
 /*
