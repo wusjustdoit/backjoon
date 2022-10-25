@@ -20,5 +20,6 @@ public class Java2480 {
         double dice1 = Math.random();
         System.out.println(dice1);
 
+
     }
 }
