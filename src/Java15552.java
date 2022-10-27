@@ -1,3 +1,7 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
 /*
 문제
 본격적으로 for문 문제를 풀기 전에 주의해야 할 점이 있다. 입출력 방식이 느리면 여러 줄을 입력받거나 출력할 때 시간초과가 날 수 있다는 점이다.
@@ -24,4 +28,8 @@ Python을 사용하고 있다면, input 대신 sys.stdin.readline을 사용할 �
 각 테스트케이스마다 A+B를 한 줄에 하나씩 순서대로 출력한다.
  */
 public class Java15552 {
+    public static void main(String[] args) {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer();
+    }
 }
