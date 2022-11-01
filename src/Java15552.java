@@ -30,7 +30,7 @@ Python을 사용하고 있다면, input 대신 sys.stdin.readline을 사용할 �
 public class Java15552 {
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer();
+       // StringTokenizer st = new StringTokenizer();
 
     }
 }
