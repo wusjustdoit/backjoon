@@ -58,5 +58,6 @@ public class Java25304 {
         } else {
             System.out.println("No");
         }
+
     }
 }
