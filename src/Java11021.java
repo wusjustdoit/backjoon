@@ -22,8 +22,8 @@ public class Java11021 {
 
         int t = Integer.parseInt(br.readLine());
 
-        for(int i=0; i < t; i++){
-            st = new StringTokenizer(br.readLine(), "");
+        for(int i=1; i <= t; i++){
+            st = new StringTokenizer(br.readLine(), " ");
             bw.write("Case #" + i + ": ");
             bw.write((Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())) + "\n");
         }
