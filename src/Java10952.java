@@ -36,6 +36,5 @@ public class Java10952 {
         }
         System.out.println(sb);
 
-
     }
 }
