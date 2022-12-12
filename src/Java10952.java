@@ -35,6 +35,5 @@ public class Java10952 {
             sb.append(a+b).append('\n');
         }
         System.out.println(sb);
-
     }
 }
