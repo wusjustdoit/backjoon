@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.StringTokenizer;
+//import java.util.StringTokenizer;
 
 /*
 문제
@@ -18,7 +18,7 @@ public class Java2439 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        StringTokenizer st;
+        //StringTokenizer st;
 
         int n = Integer.parseInt(br.readLine());
 
@@ -35,5 +35,4 @@ public class Java2439 {
         bw.flush();
         bw.close();
     }
-
 }
