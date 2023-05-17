@@ -30,10 +30,11 @@ public class Java2439 {
                 bw.write("*");
             }
             bw.write("\n");
-        } 
+        }
         br.close();
         bw.flush();
         bw.close();
     }
+    
     
 }
