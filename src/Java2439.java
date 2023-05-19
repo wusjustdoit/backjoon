@@ -36,5 +36,4 @@ public class Java2439 {
         bw.close();
     }
     
-    
 }
