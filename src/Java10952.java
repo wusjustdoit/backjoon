@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /*
@@ -35,6 +34,5 @@ public class Java10952 {
             sb.append(a+b).append('\n');
         }
         System.out.println(sb);
-
     }
 }
